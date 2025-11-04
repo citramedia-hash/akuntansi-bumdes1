@@ -105,7 +105,7 @@ export default function Dashboard() {
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
         <div>
           <h1 className="text-2xl md:text-3xl font-bold text-gray-900">Dashboard</h1>
-          <p className="text-gray-600 mt-1">BUMDes Contoh - Desa Contoh</p>
+          <p className="text-gray-600 mt-1">BUMDes Project - Desa LangitTerang</p>
         </div>
         <Button 
           onClick={() => navigate('/journal')}
